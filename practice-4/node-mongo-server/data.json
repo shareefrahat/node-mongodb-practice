@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Nuaim Chocolate",
+    "price": 10,
+    "img": "https://aromusk.netlify.app/images/product1.jpg"
+  },
+
+  {
+    "name": "Aromusk Aro",
+    "price": 20,
+    "img": "https://aromusk.netlify.app/images/product2.png"
+  },
+  {
+    "name": "Rehab Silver",
+    "price": 30,
+    "img": "https://aromusk.netlify.app/images/product3.jpg"
+  },
+  {
+    "name": "El Sabaya",
+    "price": 40,
+    "img": "https://aromusk.netlify.app/images/product4.jpg"
+  }
+]
